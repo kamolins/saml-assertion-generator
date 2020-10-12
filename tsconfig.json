@@ -6,7 +6,7 @@
     "esModuleInterop": true,
     "declaration": true,
     "declarationMap": true,
-    "outDir": "lib",
+    "outDir": "dist",
     "rootDir": "src",
     "inlineSourceMap": true,
     "strict": true,
