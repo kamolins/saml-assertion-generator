@@ -26,7 +26,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "yarn lint && yarn format && git add"
+      "pre-commit": "yarn lint && yarn format && git add ."
     }
   },
   "homepage": "https://github.com/kamolins/saml-assertion#readme",
